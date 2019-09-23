@@ -1,0 +1,23 @@
+{
+  "name": "web_developer_screener",
+  "version": "1.0.0",
+  "description": "code for Robbie Neilson",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rob-Bee-Neilson/web_developer_screener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rob-Bee-Neilson/web_developer_screener/issues"
+  },
+  "homepage": "https://github.com/Rob-Bee-Neilson/web_developer_screener#readme"
+}
