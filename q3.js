@@ -4,7 +4,7 @@
 // pseudocode:
 // create new empty array (newArr1)
 // loop through given array (arr) and test items for obj type (array or number?)
-// if array then pull each object out of arr and push to newArr1
+// if array then pull each object out of nested arr and push to newArr1
 // if number then push to newArr1
 // repeat process with newArr1
 // stop when all items in tested array are numbers
