@@ -27,3 +27,6 @@ I have managed to write some code that will successfully flatten nested arrays t
 4. 
 <!-- Given a file (`staff_list.json` in this directory), containing a JSON encoded list of Staff, create an program to read and parse this file to display all staff, ordered by name, who live within 2km of our office, which is located at 175 Victoria Street, Wellington (lat: -41.2920728, long: 174.7748162). -->
 This I understand conceptually - I'm assuming I will need to short list the staff by location first (I'm sure there are npm packages to help with this) before alphabetising. I will explore this as I go.
+
+code available in the following repo:
+https://github.com/Rob-Bee-Neilson/spstafflist
